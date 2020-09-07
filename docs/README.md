@@ -3,7 +3,7 @@ home: true
 heroImage: /BCP.jpg
 heroText: Boundless Creative Pursuit Server Wiki
 tagline: 了解BCP
-actionText: 快速上手 →
+actionText: Start →
 actionLink: /zh/guide/
 features:
 - title: 创新
