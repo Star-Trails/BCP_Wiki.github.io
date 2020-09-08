@@ -2,7 +2,8 @@
 
 # Join us!
 
-**BCP服务器简介**
+
+## 服务器简介
 
   BCP，全称为Boundless Creative Pursuit。服内以红石为主，建筑为辅，服内完成的“小工程”（比如炸怪塔等）众多。
 
@@ -26,7 +27,7 @@
 
 
 
-**BCP服务器条规**
+## BCP服务器条规
 
 ::: danger
 1.进入该服，即代表你同意以下协议：
@@ -60,8 +61,7 @@ https://account.mojang.com/terms#commercial
 
 
 
-
-**BCP服务器答疑**
+##  BCP服务器答疑
 
 Q:服务器用的是什么端？是怎么弄的？加了哪些模组及MCDR插件？
 
