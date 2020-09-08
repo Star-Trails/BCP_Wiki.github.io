@@ -4,7 +4,7 @@ heroImage: /BCP.jpg
 heroText: Boundless Creative Pursuit Server Wiki
 tagline: 了解BCP
 actionText: Get Started →
-actionLink: /zh/guide/
+actionLink: /about/
 features:
 - title: 创新
   details: 在如今抄袭盛行的时代,BCP仍不忘初衷,坚持创新。

@@ -18,6 +18,10 @@ module.exports = {
       { text: '赞助', link: 'https://afdian.net/@bcpsv' },
       { text: '直播间', link: 'https://live.bilibili.com/22312854' },
     ],
+    sidebar: [
+      ['/about/','关于'],
+      ['/project/','新手上路'],
+    ],
     lastUpdated: '上次更新于',
     smoothScroll: true,
   },
