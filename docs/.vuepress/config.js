@@ -20,7 +20,7 @@ module.exports = {
     ],
     sidebar: [
       ['/about/','关于'],
-      ['/project/','新手上路'],
+      ['/project/','工程项目'],
     ],
     lastUpdated: '上次更新于',
     smoothScroll: true,
