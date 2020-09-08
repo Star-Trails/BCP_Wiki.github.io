@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /BCP.jpg
-heroText: Boundless Creative Pursuit Server Wiki
+heroText: Boundless Creative Pursuit Wiki
 tagline: 了解BCP
 actionText: Get Started →
 actionLink: /about/
@@ -12,5 +12,5 @@ features:
   details: 享受 AMD Ryzen 9 处理器的强劲性能,给予你最好的游玩体验。
 - title: 活跃
   details: 多位大佬为你答疑解惑,祝你飞速成长。
-footer: BCP一个纯净的生电服
+footer: BCP，一个追求高质量创新的生电服
 ---
