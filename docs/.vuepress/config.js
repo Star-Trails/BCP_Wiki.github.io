@@ -1,4 +1,12 @@
 module.exports = {
+  title: 'BCP Server Wiki',
+  description: 'A wiki for BCP server',
+  head: [['link', { rel: 'icon', href: '/BCP.jpg'}]],
+  serviceWorker: true,
+  markdown: {
+    lineNumbers: true,
+    externalLinks: { target: '_blank' },
+  },
   themeConfig: {
     displayAllHeaders: true,
     logo: '/BCP.jpg',
@@ -9,10 +17,13 @@ module.exports = {
       { text: '成员申请', link: 'https://ks.wjx.top/jq/69910494.aspx' },
       { text: '赞助', link: 'https://afdian.net/@bcpsv' },
       { text: '直播间', link: 'https://live.bilibili.com/22312854' },
-    ]
-  },
-    siteData: {
-      "title" :"BCP Wiki",
-      "description": "A wiki for BCP server",
+    ],
+    sidebar: [
+      ['/', '欢迎'],
+      ['/project/', '工程项目'],
+      ['/about', '规则'],
+    ],
+    lastUpdated: '上次更新于',
+    smoothScroll: true,
   },
 }
