@@ -20,6 +20,8 @@ module.exports = {
     ],
     sidebar: [
       ['/about/','关于'],
+      ['/rule/','条规'],
+      ['/Q&A/','Q&A'],
       ['/project/','工程项目'],
     ],
     lastUpdated: '上次更新于',
